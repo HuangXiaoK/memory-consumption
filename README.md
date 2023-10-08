@@ -18,7 +18,7 @@ sudo pcm-memory
 `make`
 
 ## Running
-
+```
 ./mem_cons_type_one -h
 Usage: 
  -s   <array_size>  array size, default is 100000000
